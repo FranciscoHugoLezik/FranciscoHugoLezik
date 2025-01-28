@@ -21,6 +21,8 @@ En el curso de Data Science de Henry aprendi lo siguiente:
     - Pandas
     - Matplotlib
     - Seaborn
+    - fastapi
+    - dash
     - Go
     - Plotly
 - Git
