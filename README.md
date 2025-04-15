@@ -2,11 +2,11 @@
 
 ## ¿Quién soy?
 
-Soy un cientifico de datos junior. Puedo adaptarme a las necesidades de la empresa.
+Soy un analista/científico de datos junior. Puedo adaptarme a las necesidades de la empresa.
 
 ## ¿Que hago?
 
-Estoy por terminar el curso de Data Science de Henry.
+Estoy estudiando estadística y participando de un nuevo proyecto grupal para ganar experiencia.
 
 ## ¿A dónde me dirijo?
 
@@ -17,18 +17,23 @@ Busco mi primer trabajo tech. Quiero progresar y darle un mejor nivel de vida a 
 En el curso de Data Science de Henry aprendi lo siguiente:
 
 - Python y las siguientes librerías:
-    - Numpy
-    - Pandas
-    - Matplotlib
-    - Seaborn
+    - numpy
+    - pandas
+    - matplotlib
+    - seaborn
+    - uvicorn
     - fastapi
     - dash
-    - Go
-    - Plotly
-- Git
+    - go
+    - plotly
+- Visual Studio Code
+- git
+- Github
 - SQL
+- MySQL
+- Power BI
 
-## ¡No dudes en contactarme para contribuir con el progreso de la humanidad!
+## ¡No dudes en contactarme!
 
 Linkedin: www.linkedin.com/in/francisco-hugo-lezik-7b4256220
 
